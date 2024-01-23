@@ -9,8 +9,8 @@ Esse desafio implementei uma aplicação para registrar compras em um cartão de
 
 ## 🔨 Objetivos do projeto
 
-- Criei uma classe que represente uma compra (descrição e valor);
-- Criei uma classe que represente um cartão de crédito (limite, saldo e lista de compras), sendo que ela deve possuir um método para registrar uma compra;
+- Criei uma classe que representava uma compra (descrição e valor);
+- Criei uma classe que representava um cartão de crédito (limite, saldo e lista de compras), sendo que ela deve possuir um método para registrar uma compra;
 - Criei uma classe com o método main, seguindo os seguintes objetivos:
   1. Solicitar que o usuário informe o limite do cartão de crédito;
   2. Criar um objeto cartão de crédito com o limite informado;
